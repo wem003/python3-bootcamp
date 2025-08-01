@@ -16,9 +16,9 @@ This is a scratchpad for a course called The Modern Python 3 Bootcamp on Udemy b
 To run this code:
 
 
-# Create and activate a virtual environment
+### Create and activate a virtual environment
 python3 -m venv venv
 source venv/bin/activate
 
-# Install dependencies
+### Install dependencies
 pip install -r requirements.txt
