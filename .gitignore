@@ -1,0 +1,14 @@
+# Ignore virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# VSCode or PyCharm project files (optional)
+.vscode/
+.idea/
+
+# OS noise
+.DS_Store
